@@ -32,6 +32,6 @@ Pcmenc should use the following command line arguments:
 and optionally -r to split sample into blocks for rom replayer.
 
 ## Acknowledgments
-Thanks to Maxim for the original ASM code, MrBurrito for the example code and Sverx for his wonderful work on devkitSMS.
+Thanks to Maxim for the original ASM code, MrBurrito for the example code, Sverx for his wonderful work on devkitSMS and Calindro for the magnificent Sega Master System emulator Emulicious. 
 
 
